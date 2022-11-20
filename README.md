@@ -5,7 +5,7 @@ NGROK BY @inconshreveable
 
 *```pkg i curl -y```
 
-*```curl https://raw.githubusercontent.com/itzakx21/ngrok/main/ngrok --output /data/data/com.termux/files/usr/bin/ngrok```
+*```curl https://raw.githubusercontent.com/ITSN0B1T4/ngrok/main/ngrok --output /data/data/com.termux/files/usr/bin/ngrok```
 
 *```chmod +x```
 
